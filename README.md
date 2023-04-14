@@ -7,7 +7,8 @@ An analysis was conducted on PyCitySchools district-wide standardized test resul
 Using Pandas and Jupyter Notebook, the given data was aggregated to showcase obvious trends in school performance.
 
 
-The report includes the following.
+
+- The report includes the following.
 
 
 District Summary
@@ -30,4 +31,5 @@ Scores by School Type
 
 
 
-The report also includes a description of the observable trends.
+
+- The report also includes a description of the observable trends.
