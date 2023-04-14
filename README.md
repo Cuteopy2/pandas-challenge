@@ -8,28 +8,28 @@ Using Pandas and Jupyter Notebook, the given data was aggregated to showcase obv
 
 
 
-- The report includes the following.
+The report includes the following.
 
 
-District Summary
+- District Summary
 
-School Summary
+- School Summary
 
-Highest-Performing Schools (by % Overall Passing)
+- Highest-Performing Schools (by % Overall Passing)
 
-Lowest-Performing Schools (by % Overall Passing)
+- Lowest-Performing Schools (by % Overall Passing)
 
-Math Scores by Grade
+- Math Scores by Grade
 
-Reading Scores by Grade
+- Reading Scores by Grade
 
-Scores by School Spending
+- Scores by School Spending
 
-Scores by School Size
+- Scores by School Size
 
-Scores by School Type
-
-
+- Scores by School Type
 
 
-- The report also includes a description of the observable trends.
+
+
+The report also includes a description of the observable trends.
